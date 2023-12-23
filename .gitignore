@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+/venv/
+/lib/
+/Scripts/
+/pytest_cashe/
+/External Libraries/

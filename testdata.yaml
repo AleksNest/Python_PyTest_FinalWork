@@ -1,0 +1,7 @@
+address: https://test-stand.gb.ru/login
+browser: chrome
+path_1: 'https://test-stand.gb.ru/gateway/login'
+path_2: 'https://test-stand.gb.ru/api/posts'
+sleep_time: 5
+login: 'Monica Kunde V'
+password: 'add9b80be1'
